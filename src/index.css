@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Smooth transition for theme switching */
+body.light {
+  background: linear-gradient(to bottom right, #bae6fd, #93c5fd);
+  color: black;
+}
+
+body.dark {
+  background: linear-gradient(to bottom right, #111827, #000000);
+  color: white;
+}
+
