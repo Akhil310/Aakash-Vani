@@ -1,4 +1,4 @@
-# SkyCast Weather App
+# Aakash Vani Weather App
 
 A simple weather dashboard built with **React**, **TypeScript**, and **Vite**. This project provides live weather updates using the OpenWeatherMap API.
 
